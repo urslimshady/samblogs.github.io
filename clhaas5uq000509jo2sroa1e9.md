@@ -1,6 +1,6 @@
 ---
 title: "Accelerating Your Application Deployment Process with Jenkins, GitHub Webhook, and Maven for Smooth Software Delivery"
-seoTitle: "Jenkins CI/CD pipeline"
+seoTitle: "Jenkins, Github-webhook, and Maven"
 datePublished: Fri May 05 2023 08:31:57 GMT+0000 (Coordinated Universal Time)
 cuid: clhaas5uq000509jo2sroa1e9
 slug: accelerating-your-application-deployment-process-with-jenkins-github-webhook-and-maven-for-smooth-software-delivery
